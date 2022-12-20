@@ -2,7 +2,7 @@
 
 Все начинается [здесь](https://github.com/manulovich/sber-graduate-work/blob/main/Main.ipynb).
 
-_P.S. Находится на стадии разработки_
+_P.S. Находится на стадии разработки._
 
 ## Структура репозитория
 ```
